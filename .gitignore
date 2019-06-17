@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-*.csv
-*.xls
-*.xlsx
 
 # C extensions
 *.so
@@ -38,7 +35,6 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-.xlsx
 
 # Unit test / coverage reports
 htmlcov/
